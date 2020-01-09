@@ -1,10 +1,6 @@
 
-Blackjack
-
-To Run:
-$ java BlackjackApp2
-
 This is based on the classic blackjack game 
+
 features:
 the ability to bet an amount of the players choosing (limited by players available funds)
 the ability to win or lose money
@@ -50,12 +46,3 @@ PlayerMoney.java - keeps track of the player's money and contains bet() and win(
 Images
 These are the images which display cards to the user
 This folder should be one underneath the Blackjack folder, for the images to be appropriately referenced
-(This was created on a Windows OS, if it makes a difference)
-
-(Just in case the files are not compiled)
-To Run:
-$ javac CardImage.java
-$ javac Deck.java
-$ javac PlayerMoney.java
-$ javac BlackjackApp2.java
-$ java BlackjackApp2
