@@ -35,7 +35,7 @@ Beating the dealer, but not acheiving "Blackjack", the player recieves double th
 A tie with the dealer returns the bet
 losing to the dealer in any circumstance, the bet is not returned
 
-Files contained in Zip:
+Files contained:
 
 Classes
 BlackjackApp2.java - main App
